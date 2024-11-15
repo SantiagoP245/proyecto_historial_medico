@@ -163,4 +163,4 @@ Requerimiento: Agregar y obtener historiales médicos de pacientes
     Crear un historial médico para un paciente: Añadir un nuevo historial médico a un paciente con la solicitud PUT a /api/pacientes/:id.
     Obtener historial médico de un paciente: La API devuelve un historial médico completo al consultar un paciente con GET /api/pacientes/:id.
 
-Con este README.md tendrás una guía clara para los desarrolladores y cualquier persona que desee trabajar con el proyecto. Simplemente ajusta los detalles según sea necesario.
+
